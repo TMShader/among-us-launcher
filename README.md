@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/TMShader/among-us-launcher">
-    <img src="app_icon3.png" alt="Logo" width="80" height="80">
+    <img src="app_icon3.png" alt="Logo" width="69" height="80">
   </a>
 
   <h3 align="center">Among Us Laucher</h3>
