@@ -1,4 +1,4 @@
-[![Apache 2.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url]
+[![Apache-2.0 License][license-shield]][license-url]
 
 <br />
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## License
 
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 [license-shield]: https://img.shields.io/github/license/TMShader/among-us-launcher.svg?style=flat-square
 [license-url]: https://github.com/TMShader/among-us-launcher/blob/master/LICENSE
