@@ -18,3 +18,12 @@
     <a href="#installation"><b>INSTALLATION INSTRUCTIONS</b></a>
   </p>
 </p>
+
+## License
+
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+
+[license-shield]: https://img.shields.io/github/license/TMShader/among-us-launcher.svg?style=flat-square
+[license-url]: https://github.com/TMShader/among-us-launcher/blob/master/LICENSE
+[appveyor-shield]: https://img.shields.io/appveyor/build/TMShader/among-us-launcher
+[appveyor-url]: https://ci.appveyor.com/project/TMShader/among-us-launcher
