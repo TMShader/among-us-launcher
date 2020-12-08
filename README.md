@@ -9,7 +9,7 @@
   <h3 align="center">Among Us Laucher</h3>
 
   <p align="center">
-    Free, open, Among Us mod, game skin and settings tweaker.
+    Edit your game settings, mods and skins easier than ever!
     <br />
     <a href="https://github.com/TMShader/among-us-launcher/issues">Report Bug</a>
     ·
